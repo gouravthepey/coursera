@@ -1,0 +1,23 @@
+#content {
+    background-color: lightsalmon;
+    width: 87%;
+    
+}
+#menu {
+    font-weight: bold;
+    font-size: xx-large;
+    padding-bottom: 30px;
+    
+}
+h2 {
+    padding-top: 10px;
+}
+.object {
+    background-color: lightgray;
+    text-align: center;
+    border: 1px solid black;
+}
+#header-nav {
+    background-color: lightblue;
+    border: 1px solid black;
+}
